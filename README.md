@@ -1,4 +1,4 @@
-##Gesture Recognition for Home Automation
+## Gesture Classification for SmartHome
 
 Requirements:<br>
 * TensorFlow
