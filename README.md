@@ -12,3 +12,6 @@ Usage:<br>
 * Test data folder: 'test'
 * Run```python main.py```
 * A Results.csv will be generated in the same directory with as the project which will have the label of the predicted gestures.
+
+Description: <br>
+![Screenshot](Screen Shot 2021-12-22 at 1.58.10 AM.png)
